@@ -20,3 +20,7 @@ then will be pushing this docker image to docker hub<br><br>
 using shell script we ll update the manifests repo.<br><br>
 we ll use argo CD to deploy manifest repo to k8 server.
 </h4>
+
+
+
+//SONARQUBE bought me nightmares. it 00:08 and m struggling with it.
