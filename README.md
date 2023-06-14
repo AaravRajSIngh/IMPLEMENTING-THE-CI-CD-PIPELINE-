@@ -8,13 +8,13 @@ We will not be using image updater instead we ll try to configure shell script f
 
 
 WHAT WILL WE DO?
-
+<br>
 <h4>
-Build a java apk using maven
-SonarQube is used for scanning of images.
-we ll try to set up sonar server locally
-after that we ll build docker image
-then will be pushing this docker image to docker hub
-using shell script we ll update the manifests repo.
+<br>Build a java apk using maven<br><br>
+SonarQube is used for scanning of images<br><br>
+we ll try to set up sonar server locally<br><br>
+after that we ll build docker image<br><br>
+then will be pushing this docker image to docker hub<br><br>
+using shell script we ll update the manifests repo.<br><br>
 we ll use argo CD to deploy manifest repo to k8 server.
 </h4>
