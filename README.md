@@ -1,4 +1,6 @@
 # IMPLEMENTING-THE-CI-CD-PIPELINE-
+
+<h2>The application will be deployed on kubernetes using Argo CD.</h2>
 We will be using a number of tools and will try to create a standard CI/CD pipeline.
 <br>
 github/AaravRajSIngh
